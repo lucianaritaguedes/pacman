@@ -1,0 +1,32 @@
+
+{
+   "user_data": {
+	"user_id" : {
+   	   "user_name"  : "Fulano de Tal",
+	   "user_birth" : "01/01/1990"
+	}
+   }
+}
+
+{
+  "game_data": {
+	"game_id" : {   
+	   "game_timestamp" : {
+	      "game_user :"fulano@exemplo.com.br",
+	      "game_date":"09/01/2020",
+	      "game_time":"13:45:53",
+	      "game_time_ms":"390",
+	      "game_PM_x":"276",
+	      "game_PM_y":"416",
+	      "game_G1_x":"276",
+	      "game_G1_y":"204",
+	      "game_G2_x":"276",
+	      "game_G2_y":"258",
+	      "game_G3_x":"238",
+	      "game_G3_y":"258",
+	      "game_G4_x":"314",
+	      "game_G4_y":"258"
+	   }
+	}
+    }
+}
